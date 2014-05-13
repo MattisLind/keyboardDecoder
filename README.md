@@ -18,7 +18,9 @@ This chip is also used in the DEC VT05 terminal.
 Since it was rather cheap to roder ten small PCBs from China I just made a small PCB. The gerber files are in the repo as well as the DipTrace CAD file.
 
 Top layer:
+
 ![PCB top](https://dl.dropboxusercontent.com/u/96935524/Datormusuem/LA30keyboardDecoder/LA30top.png "PCB top")
 
 Bottom layer:
+
 ![PCB bottom](https://dl.dropboxusercontent.com/u/96935524/Datormusuem/LA30keyboardDecoder/LA30bottom.png "PCB top")
